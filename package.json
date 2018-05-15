@@ -1,0 +1,8 @@
+{
+  "name": "encrypt-decrypt-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Arturs Valenieks",
+  "license": "ISC"
+}
